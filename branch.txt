@@ -1,0 +1,5 @@
+WELCOME TO BRANCHING 
+git commit 
+git pull
+git push
+git add
